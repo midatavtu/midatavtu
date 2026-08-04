@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buy Airtime</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h2>Buy Airtime</h2>
+
+<input type="text" placeholder="Phone Number"><br><br>
+
+<select>
+    <option>MTN</option>
+    <option>Airtel</option>
+    <option>Glo</option>
+    <option>9mobile</option>
+</select><br><br>
+
+<input type="number" placeholder="Amount"><br><br>
+
+<button>Buy Airtime</button>
+
+<br><br>
+
+<a href="dashboard.html">⬅ Back to Dashboard</a>
+
+</body>
+</html>
